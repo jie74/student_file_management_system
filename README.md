@@ -4,7 +4,7 @@
 数据库大作业存档，与搭档共同完成，学生档案管理系统分学生端和管理端，Apache+PHP+MySQL，欢迎学习指教，请勿全盘照搬。
 
 #### 使用方法
-1、新建数据库，导入时选择file.sql文件 2、clone代码保存到本地 3、可修改connect.sql文件中的mysql数据库密码
+1、新建数据库，导入时选择file.sql文件 2、clone代码保存到本地（如xampp的htdoc文件下） 3、可修改connect.sql文件中的mysql数据库密码 4、浏览器输入172.0.0.1:端口/文件夹路径
 
 #### 部分截图
 ![功能模块](https://images.gitee.com/uploads/images/2020/0804/155328_83e5a04c_4890701.png "屏幕截图.png")
